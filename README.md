@@ -1,6 +1,8 @@
 # icsoft-2019-npm-recipes
 
-Extracted data for the paper:
+![network](https://github.com/AuthEceSoftEng/icsoft-2019-npm-recipes/blob/master/appDependenciesNet.png)
+
+The datasets of the paper:
 
 Kyriakos C. Chatzidimitriou, Michail D. Papamichail, Themistoklis Diamantopoulos, Napoleon-Christos Oikonomou, Andreas L. Symeonidis: npm Packages as Ingredients: a Recipe-based Approach, 2019, 14th International Conference on Software Technologies (ICSOFT) [link](http://insticc.org/node/TechnicalProgram/icsoft/presentationDetails/79668)
 
